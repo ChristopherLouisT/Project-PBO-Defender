@@ -1,3 +1,5 @@
+Buat .gradle dan .idea copy aja dari file kalian sbelomnya
+
 Player:
 - Orang yang bisa bergerak naik dan turun (Dikontrol dengan keyboard W dan S)
 - Menembak dengan panah / sihir (Tergantung orangnya darat or terbang) (Phy jika panah dan Magic jika sihir)
